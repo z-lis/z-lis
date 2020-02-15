@@ -1,5 +1,5 @@
 angular.
-  module('topicList').
+  module('designApp').
   component('topicList', {
     templateUrl: 'app/topic-list/topic-list.template.html',
     controller: function TopicListController() {

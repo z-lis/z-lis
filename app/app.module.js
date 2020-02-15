@@ -1,6 +1,6 @@
-angular.module('design2App', [
+angular.module('designApp', [
   'ngMaterial',
-  'topicList'
+  'ngRoute'
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
     .primaryPalette('deep-purple')
