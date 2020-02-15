@@ -7,12 +7,14 @@ angular.
         {
           id: 1,
           title: 'UML Use Case',
-          description: 'Диаграмма прецедента'
+          description: 'Диаграмма прецедента',
+          preview: 'https://s.plantuml.com/imgw/sequence-diagram-fwsz6ibo.png'
         },
         {
           id: 2,
           title: 'UML Class',
-          description: 'Диаграмма классов'
+          description: 'Диаграмма классов',
+          preview: 'https://s.plantuml.com/imgw/sequence-diagram-fwsz6ibo.png'
         },
       ];
     }

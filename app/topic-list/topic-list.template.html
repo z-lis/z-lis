@@ -1,6 +1,18 @@
-<ul>
-    <li ng-repeat="topic in $ctrl.topics">
-        <span>{{topic.title}}</span>
-        <p>{{topic.description}}</p>
-    </li>
-</ul>
+<md-content class="md-padding" layout-xs="column" layout="row" layout-align="center center">
+    <div ng-repeat="topic in $ctrl.topics" flex-xs layout="column">
+        <md-card class="topic-card">
+            <img ng-src="{{topic.preview}}" class="md-card-image topic-card-image">
+            <md-card-title>
+                <md-card-title-text>
+                    <span class="md-headline">{{topic.title}}</span>
+                </md-card-title-text>
+            </md-card-title>
+            <md-card-content>
+                <p>{{topic.description}}</p>
+            </md-card-content>
+            <md-card-actions layout="row" layout-align="end center">
+                <md-button class="md-primary">Подробнее</md-button>
+            </md-card-actions>
+        </md-card>
+    </div>
+</md-content>

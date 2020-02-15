@@ -1,0 +1,8 @@
+.topic-card {
+    max-width: 400px;
+}
+
+.topic-card-image {
+    object-fit: cover; 
+    height: 200px;
+}
