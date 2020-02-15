@@ -2,8 +2,8 @@ angular.
   module('designApp').
   component('topicList', {
     templateUrl: 'app/topic-list/topic-list.template.html',
-    controller: function TopicListController() {
-      this.topics = [
+    controller: function TopicListController($scope) {
+      $scope.topics = [
         {
           id: 1,
           title: 'UML Use Case',
