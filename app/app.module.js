@@ -1,6 +1,7 @@
 angular.module('designApp', [
   'ngMaterial',
-  'ngRoute'
+  'ngRoute',
+  'ngResource'
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
     .primaryPalette('deep-purple')
