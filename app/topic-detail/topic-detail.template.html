@@ -8,7 +8,7 @@
         <md-card-content>
             <div ng-repeat="item in topic.items" ng-switch="item.type">
                 <div ng-switch-when="text">
-                    <topic-text data="item.data"></topic-text>
+                    <topic-item-text data="item.data"></topic-item-text>
                 </div>
             </div>
         </md-card-content>
