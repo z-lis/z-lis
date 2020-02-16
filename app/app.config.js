@@ -9,8 +9,8 @@ angular.
                 when('/about', {
                     template: '<about></about>'
                 }).
-                when('/topic/:topicId', {
-                    template: ''
+                when('/topics/:topicId', {
+                    template: '<topic-detail></topic-detail>'
                 }).
                 otherwise('/topics');
     }]).
