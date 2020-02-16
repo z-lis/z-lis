@@ -1,27 +1,34 @@
 {
     "title": "UML Use Case",
-    "content": [
+    "items": [
         {
             "type": "text",
-            "data": "<h3>Разработка диаграммы</h3>"
+            "data": [
+                {
+                    "text": "Разработка диаграммы",
+                    "class": "md-title"
+                }
+            ]
         },
         {
             "type": "text",
-            "data": "<p>Диаграмма создана с помощью <a href=\"https://plantuml.com\" target=\"blank\">PlantUML</a></p>"
+            "data": [
+                {
+                    "text": "Диаграмма создана с помощью "
+                },
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+            ]
         },
         {
             "type": "text",
-            "data": "<p>PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool.</p>"
-        },
-        {
-            "type": "text",
-            "data": "<h3>Постусловия (post-conditions)</h3>"
-        },
-        {
-            "type": "list",
-            "data": ["сформирована личная страница с использованием HTML, CSS, JS", 
-                "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ",
-                "ссылка на личную страницу записана в списке группы"]
+            "data": [
+                {
+                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                }
+            ]
         }
     ]
 }

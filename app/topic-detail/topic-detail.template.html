@@ -6,6 +6,11 @@
             </md-card-title-text>
         </md-card-title>
         <md-card-content>
+            <div ng-repeat="item in topic.items" ng-switch="item.type">
+                <div ng-switch-when="text">
+                    <topic-text data="item.data"></topic-text>
+                </div>
+            </div>
         </md-card-content>
         <md-card-actions layout="row" layout-align="start">
             <md-button class="md-primary" ng-click="back()">Назад</md-button>
