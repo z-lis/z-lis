@@ -15,42 +15,42 @@
         "id": 3,
         "title": "Лабораторная работа 1",
         "description": "Разметка личной страницы, разработка UML диаграммы прецедентов",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 4,
         "title": "Лабораторная работа 2",
         "description": "Заполнение личной страницы, разработка UML Class",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 5,
         "title": "Лабораторная работа 3",
         "description": "Реализация мини-приложения SPA, разработка UML Sequence",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 6,
         "title": "Лабораторная работа 4",
         "description": "Реализация приложения на Angular 7, разработка UML Component",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 7,
         "title": "Лабораторная работа 5",
         "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 8,
         "title": "Лабораторная работа 6",
         "description": "Разработка процедуры на JS в выбранном проекте",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     },
     {
         "id": 9,
         "title": "Лабораторная работа 7",
         "description": "Разработка unit-теста процедуры в выбранном проекте",
-        "preview": "img/class-diagram.png"
+        "preview": "img/F.jpg"
     }
 ]
