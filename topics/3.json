@@ -137,19 +137,6 @@
             ]
         },
         {
-            "type": "image",
-            "data":"https://www.plantuml.com/plantuml/png/fLFDIYD143xRJr7af8V0Fi0YpiIGKo2Wu7b8PkDWp4ZF10ygHDsVWuAxYoSl_eBNMJLaDYRZArI_aLztsucYDndeBgg-dwhkdgKa3MJQs-o8P2FgRWKosAIWcSQITiIS7pGtsZBkTLkLk8FKsdgKXcBEapBUjXc_0mY0iMo5ydLgxvLUBmcRGH9-Mh4JVaifZKb6xVMKMf4CcsaKTuNjjqv1GYM-v48TgBuwv0UUSCwZagj_iO1R7l0Z5to7VLfSjRKhrUSCj27MaVe9UaxyXqyTh6PX5r0V6Oa2Bhawq9BgsA5MN2TdV3tZDcps71O5tnkZCRw9EkB_X01Ia3KoOWi31-sGl4R3QULgt_YCEIDZFj5ZOdzK9mJYar6ymsW3FJUIQAtG95q4RbpQ4UucFAlw5zW7Y-U1LitGG_zbi7ikeAj-yG2-MMdAzJ_a_WDtg8x8z55WFLJxzencp8fbtkXRGJL_iSgSXg6g7-PGtn2NBV4tW1a6p7b8M2RgE-1zVIBsgcQ4gdEozNTE-ebC1ziJyvK5-hfRBjEgg56vlBj8yzK5uTdSYl1Ti6o3XgYw08_Au6lJg2xgDl1Su8kbiDl2B_OC" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Файл",
-                    "link": "https://github.com/LaverychevM/laverychev-page/blob/master/files/usecase1.txt"
-                }
-                ]
-        },
-        {
             "type": "text",
             "data": [
                 {
