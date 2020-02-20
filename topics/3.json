@@ -1,0 +1,191 @@
+{
+    "title": "UML Use Case",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "1. Идентификатор прецедента",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Выпускная квалификационная работа"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "2. Название прецедента",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разметка личной страницы, разработка UML Use Case"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "3. Контекст",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Дисциплина Проектирование информационных систем"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "4. Участники (actors) и цели (goals)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/LaverychevM/laverychev-page/blob/master/img/2020-02-19_21-25-02.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "5. Предусловия (pre-conditions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{                    "text": "освоена работа с личным репозиторием и основными CASE-инструментами"
+                }],
+                [{                    "text": "освоены основные приемы преобразования диаграмм IDEF0 в UML USE Case"
+                }],
+                [{                    "text": "сформированы примеры концептуальных отношений и выбран прецедент для описания"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "6. Постусловия (post-conditions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                }],
+                [{                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
+                }],
+                [{                    "text": "ссылка на личную страницу записана в списке группы"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "7. Основной поток (main flow)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/LaverychevM/laverychev-page/blob/master/img/2020-02-19_21-44-09.png?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "8. Исключения (exceptions)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{                    "text": "Проблема в корректности имен репозиториев"
+                }],
+                [{                    "text": "Несогласованные по смыслу/содержанию/наполнению UML CASE"
+                }]
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://www.plantuml.com/plantuml/png/fLFDIYD143xRJr7af8V0Fi0YpiIGKo2Wu7b8PkDWp4ZF10ygHDsVWuAxYoSl_eBNMJLaDYRZArI_aLztsucYDndeBgg-dwhkdgKa3MJQs-o8P2FgRWKosAIWcSQITiIS7pGtsZBkTLkLk8FKsdgKXcBEapBUjXc_0mY0iMo5ydLgxvLUBmcRGH9-Mh4JVaifZKb6xVMKMf4CcsaKTuNjjqv1GYM-v48TgBuwv0UUSCwZagj_iO1R7l0Z5to7VLfSjRKhrUSCj27MaVe9UaxyXqyTh6PX5r0V6Oa2Bhawq9BgsA5MN2TdV3tZDcps71O5tnkZCRw9EkB_X01Ia3KoOWi31-sGl4R3QULgt_YCEIDZFj5ZOdzK9mJYar6ymsW3FJUIQAtG95q4RbpQ4UucFAlw5zW7Y-U1LitGG_zbi7ikeAj-yG2-MMdAzJ_a_WDtg8x8z55WFLJxzencp8fbtkXRGJL_iSgSXg6g7-PGtn2NBV4tW1a6p7b8M2RgE-1zVIBsgcQ4gdEozNTE-ebC1ziJyvK5-hfRBjEgg56vlBj8yzK5uTdSYl1Ti6o3XgYw08_Au6lJg2xgDl1Su8kbiDl2B_OC" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Файл",
+                    "link": "https://github.com/LaverychevM/laverychev-page/blob/master/files/usecase1.txt"
+                }
+                ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "9. Альтернативы (alternates)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{                    "text": "Страница создана с использованием другой разметки"
+                }],
+                [{                    "text": "Страница размещена на другом ресурсе"
+                }]
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "10. Временные параметры",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "list",
+            "data": [
+                [{                    "text": "Триггер (событие, стартующее прецедент): начало занятия по расписанию"
+                }],
+                [{                    "text": "Номинальная частота повторения прецедента: 1 раз в семестр * число студентов (60)"
+                }],
+                [{                    "text": "Продолжительность прецедента: 4 ак.часа = 3 нормочаса"
+                }]
+            ]
+        }
+    ]
+}
