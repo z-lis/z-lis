@@ -1,0 +1,18 @@
+{
+    "title": "UML Class",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Разработка диаграммы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/uml_class.jpg"
+        },
+    ]
+}
