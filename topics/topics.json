@@ -1,17 +1,5 @@
 [
     {
-        "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
-    },
-    {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
-    },
-    {
         "id": 3,
         "title": "Лабораторная работа 1",
         "description": "Разметка личной страницы, разработка UML диаграммы прецедентов",
