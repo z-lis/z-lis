@@ -1,0 +1,23 @@
+{
+    "title": "ABC project - результаты работы",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "[Веб-приложение](https://stankin.github.io/oop-stat/)",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "[Канбан доска](https://github.com/stankin/oop-stat/projects/1)",
+                    "class": "md-title"
+                }
+            ]
+        }
+    ]
+}
