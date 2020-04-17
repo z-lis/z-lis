@@ -5,8 +5,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Веб-приложение - https://stankin.github.io/oop-stat",
-                    "class": "md-title"
+                    "text": "Веб-приложение",
+                    "link": "https://stankin.github.io/oop-stat"
                 }
             ]
         },
@@ -14,8 +14,8 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Канбан доска - https://github.com/stankin/oop-stat/projects/1",
-                    "class": "md-title"
+                    "text": "Канбан доска",
+                    "link": "https://github.com/stankin/oop-stat/projects/1"
                 }
             ]
         }
