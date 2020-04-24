@@ -3,7 +3,7 @@
     "items": [
         {
             "type": "image",
-            "data": "https://github.com/z-lis/z-lis/blob/master/img/uml-case.png"
+            "data": "img/uml-case.png"
         },
         {
             "type": "text",
